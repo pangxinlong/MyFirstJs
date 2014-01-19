@@ -1,1 +1,7 @@
-{"name":"MyFirstJs","subdomain":"pangxinlong","description":"Sample API in Flatironjs","version":"0.0.3-3","dependencies":{"flatiron":"*","union":"*"},"scripts":{"start":"./HelloWord.js"},"engines":{"node":"0.8.x"}}
+{"name":"MyFirstJs",
+"subdomain":"pangxinlong",
+"description":"Sample API in Flatironjs",
+"version":"0.0.3-3",
+"dependencies":{"flatiron":"*","union":"*"},
+"scripts":{"start":"./HelloWorld.js"},
+"engines":{"node":"0.8.x"}}
