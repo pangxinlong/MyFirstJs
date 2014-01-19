@@ -1,1 +1,11 @@
-{   "name": "MyFirstJs",   "version": "0.0.1-7",   "author": {     "name": "tangguangyao",     "email": "gytang1986@gmail.com"   },   "private": true,   "scripts": {     "start": "node HelloWord.js"   },   "dependencies": {     "express": "3.3.1",     "ejs": "*",     "mongodb": "*",     "connect-mongo": "*",     "connect-flash": "*",     "request": "*",     "cheerio": "*",     "socket.io": "*",     "gm": "*",     "mongoskin": "*"   },   "subdomain": "first",   "engines": {     "node": ">=0.4"   } }
+{
+"name":"MyFirstJs",
+"subdomain":"pangxinlong",
+"description":"Sample API in Flatironjs",
+"version":"0.0.3",
+"dependencies":{"flatiron":"*","union":"*"},
+"scripts":{
+"start":"node HelloWorld.js"},
+"engines":{
+"node":"0.8.x"}
+}
